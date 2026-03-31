@@ -1,1 +1,1 @@
-# mz3d_power_controller
+# Контроллер питания для 3D-принтера MZ3D
